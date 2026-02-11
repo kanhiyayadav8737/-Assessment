@@ -252,7 +252,7 @@ nav ul li a{
 .hero-right {
   position: relative;
   border-radius: 26px;
-  background:url("./image/banner.png") center/cover no-repeat;
+  background:url("./banner.png") center/cover no-repeat;
   /* border: 1px solid rgba(0,0,0,.08); */
   overflow: hidden;
   min-height: 520px;
@@ -576,3 +576,4 @@ nav ul li a{
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
